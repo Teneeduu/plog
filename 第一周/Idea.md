@@ -3,4 +3,4 @@
 首先呢，要想能够快速地掌握基础知识，需要将专业书籍进行粗略阅读，并针对其中的重点内容，重点阅读并进行思考和理解！
 思维是建立在底层逻辑上的想法！
 学习的底层逻辑是：理解和重复！本人缺乏重复！而重复贵在坚持！所以从今天开始，我将给自己设定固定任务！根据要事第一的原则，定时定量完成任务！
-！[image](https://github.com/Teneeduu/plog/blob/main/%E7%AC%AC%E4%B8%80%E5%91%A8/tails_of_iron.png)
+![image](https://github.com/Teneeduu/plog/blob/main/%E7%AC%AC%E4%B8%80%E5%91%A8/tails_of_iron.png)
