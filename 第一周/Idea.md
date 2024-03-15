@@ -22,3 +22,9 @@
 
 今天玩了个很想空洞骑士的游戏，叫做钢铁之尾（Tails of Iron）,该游戏的评测可以参考知乎上CJsTime的文章https://zhuanlan.zhihu.com/p/411758440
 ![image](https://github.com/Teneeduu/plog/blob/main/%E7%AC%AC%E4%B8%80%E5%91%A8/tails_of_iron.png)
+
+昨天，有的地方在吹牛，做不到的就别写！
+今天开始偷窥网络安全的门！
+轩辕之风不愧是网络安全的大佬！膜拜！
+今天分享一下大佬写的关于工作的感想()
+
